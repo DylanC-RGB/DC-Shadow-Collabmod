@@ -1,0 +1,6 @@
+name: "Collab mod"
+displayName: "[blue]Collab[black] Mod"  
+author: "CBMShadowGD and DylanC"
+description: "A collab mod."
+version: "1"
+minGameVersion: "131"
